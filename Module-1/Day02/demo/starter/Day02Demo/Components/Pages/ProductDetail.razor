@@ -1,10 +1,14 @@
+@* Added notes *@
+@page "/products/{category:alpha}/{id:int:min(1)}"
+@*This means the category must be alphabetic and the ID must be a positive integer *@
+
 <PageTitle>Product Detail</PageTitle>
 
 <h1>Product Detail</h1>
 
 <div class="card mt-3">
     <div class="card-body">
-        <h5 class="card-title">Product Page</h5>
+        <h5 class="card-title">@Category - Product @Id</h5> @* Display the category and ID from the route parameters *@
         <p class="card-text">
             This page demonstrates <strong>multiple route parameters</strong> with constraints.
             The route <code>/products/{"{category:alpha}"}/{"{id:int:min(1)}"}</code> requires
@@ -47,5 +51,9 @@
 </div>
 
 @code {
-    
+    [Parameter]
+    public string Category { get; set; } = string.Empty; // this means the Category parameter is required and cannot be null
+
+    [Parameter]
+    public int Id { get; set; } // this means the Id parameter is required and cannot be null
 }

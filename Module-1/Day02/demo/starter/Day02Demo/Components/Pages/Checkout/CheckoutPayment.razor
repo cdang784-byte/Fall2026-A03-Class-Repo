@@ -1,4 +1,7 @@
+@* added notes *@
+
 @page "/checkout/payment"
+@inject NavigationManager Navigation
 
 <PageTitle>Checkout - Payment</PageTitle>
 
@@ -42,9 +45,12 @@
 @code {
     private void GoBack()
     {
+        Navigation.NavigateTo("/checkout/shipping", replace: true); // this will navigate back to the shipping page, but it will replace the current entry in the browser's history, so the user won't return to this payment page when they click the back button in their browser.
+        // replace: true means that the current page will be replaced in the browser's history stack, so when the user clicks the back button, they will go back to the shipping page instead of returning to this payment page.
     }
 
     private void ReviewOrder()
     {
+        Navigation.NavigateTo("/checkout/confirm"); // this will navigate to the confirmation page, where the user can review their order before submitting it.
     }
 }

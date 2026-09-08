@@ -1,4 +1,7 @@
 @page "/"
+@* Added notes *@
+@inject NavigationManager Navigation
+@* this means the NavigationManager service is injected into this component, allowing us to navigate programmatically. *@
 
 <PageTitle>Day 2 Demo - NavigationManager</PageTitle>
 
@@ -37,5 +40,9 @@
 
     private void GoToProduct()
     {
+        // "/products/home/55"
+        Navigation.NavigateTo($"products/{category}/{productId}");
+        // $"products/{category}/{productId}" means we are using string interpolation to build the URL based on the user input.
+        // This will navigate to the ProductDetail page with the specified category and product ID.
     }
 }

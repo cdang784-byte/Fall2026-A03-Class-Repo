@@ -1,4 +1,7 @@
+@* added notes *@
+
 @page "/checkout/confirm"
+@inject NavigationManager Navigation
 
 <PageTitle>Checkout - Confirmation</PageTitle>
 
@@ -32,9 +35,11 @@
 @code {
     private void GoBack()
     {
+        Navigation.NavigateTo("/checkout/payment", replace: true); // this will navigate back to the payment page, but it will replace the current entry in the browser's history, so the user won't return to this confirmation page when they click the back button in their browser.
     }
 
     private void StartOver()
     {
+        Navigation.NavigateTo("/checkout/shipping"); // this will navigate back to the shipping page, starting the checkout process over from the beginning.
     }
 }
