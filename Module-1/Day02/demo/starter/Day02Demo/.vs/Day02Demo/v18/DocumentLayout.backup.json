@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\pages\\checkout\\checkoutconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\pages\\checkout\\checkoutpayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutpayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\pages\\checkout\\checkoutshipping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\checkout\\checkoutshipping.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\day02demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:day02demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|c:\\users\\chris\\onedrive\\2351(use this one)\\module-1\\day02\\demo\\starter\\day02demo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C167F0-3705-46B5-B52F-AFDD28C3B386}|Day02Demo.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutPayment.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutPayment.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T20:26:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutConfirm.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutConfirm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T20:05:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutShipping.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "RelativeToolTip": "Components\\Pages\\Checkout\\CheckoutShipping.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T20:05:17.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T19:46:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\ProductDetail.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProductDetail.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Pages\\ProductDetail.razor",
+              "RelativeToolTip": "Components\\Pages\\ProductDetail.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T19:32:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T19:31:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Day02Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Day02Demo.csproj",
+              "RelativeDocumentMoniker": "Day02Demo.csproj",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Day02Demo.csproj",
+              "RelativeToolTip": "Day02Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T19:30:41.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Chris\\OneDrive\\2351(USE THIS ONE)\\Module-1\\Day02\\demo\\starter\\Day02Demo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T19:30:21.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

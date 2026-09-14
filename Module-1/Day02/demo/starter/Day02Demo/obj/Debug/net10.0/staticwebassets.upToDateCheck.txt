@@ -1,0 +1,6 @@
+wwwroot\app.css
+C:\Users\Chris\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\build\..\_framework\blazor.web.js
+C:\Users\Chris\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\build\..\_framework\blazor.server.js
+C:\Users\Chris\OneDrive\2351(USE THIS ONE)\Module-1\Day02\demo\starter\Day02Demo\wwwroot\app.css
+C:\Users\Chris\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\_framework\blazor.web.js
+C:\Users\Chris\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.11\_framework\blazor.server.js
